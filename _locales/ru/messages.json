@@ -1,0 +1,11 @@
+{
+  "extName": { "message": "TaskKeep: Фокус и Задачи" },
+  "extDesc": { "message": "Держите 3 главные задачи дня и таймер Pomodoro всегда под рукой." },
+  "title": { "message": "🎯 Топ-3 Задачи на Сегодня" },
+  "task1_place": { "message": "Задача 1..." },
+  "task2_place": { "message": "Задача 2..." },
+  "task3_place": { "message": "Задача 3..." },
+  "btnStart": { "message": "Старт" },
+  "btnPause": { "message": "Пауза" },
+  "alertTime": { "message": "Время отдыхать! Отличная работа." }
+}

@@ -1,0 +1,11 @@
+{
+  "extName": { "message": "TaskKeep: Focus & Todo" },
+  "extDesc": { "message": "Keep your top 3 daily tasks and a Pomodoro focus timer always at hand." },
+  "title": { "message": "🎯 Top 3 Tasks Today" },
+  "task1_place": { "message": "Task 1..." },
+  "task2_place": { "message": "Task 2..." },
+  "task3_place": { "message": "Task 3..." },
+  "btnStart": { "message": "Start" },
+  "btnPause": { "message": "Pause" },
+  "alertTime": { "message": "Time to rest! Great job." }
+}
