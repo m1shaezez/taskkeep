@@ -10,7 +10,6 @@
 - 🗑 **Кнопка «Очистить всё»:** Мгновенно обнуляйте список задач, сбрасывайте чекбоксы и чистите локальный кэш в один клик.
 - ⏱ **Кастомный фоновый таймер:** Устанавливайте любое время или используйте пресеты (25м, 5м, 15м). Таймер работает в фоне Chrome, даже если окно закрыто.
 - 🌙 **Тёмная тема:** Удобное переключение режимов оформления с сохранением настроек.
-- 🐛 **Повышенная стабильность:** Оптимизировано потребление оперативной памяти локальным хранилищем (`storage.local`) и устранены мелкие баги десинхронизации.
 
 ## 🛠 Установка
 1. Скачайте и распакуйте ZIP-архив из **Releases**.
@@ -31,7 +30,6 @@
 - 🗑 **"Clear All" Button:** Instantly wipe out all daily goals, uncheck checkboxes, and flush the local cache in a single click.
 - ⏱ **Background Timer:** Set custom durations or toggle quick presets (25m, 5m, 15m) that run seamlessly via Chrome Service Workers even when the popup is closed.
 - 🌙 **Dark Mode:** Fluid UI theme switching that automatically saves your styling preferences.
-- 🐛 **Bugfixes & Optimization:** Improved memory usage for local storage and resolved desynchronization edge-cases.
 
 ## 🛠 Installation
 1. Download and extract the ZIP archive from **Releases**.
